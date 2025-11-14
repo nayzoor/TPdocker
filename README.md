@@ -1,3 +1,4 @@
+Enoncé : 
 Créer 3 conteneurs sur 2 réseaux différents :
 
 •	app et db dans backend\_net
@@ -6,6 +7,10 @@ Créer 3 conteneurs sur 2 réseaux différents :
 
 Exercice bonus :
 Empêcher db d’être accessible directement depuis l’hôte, mais rendre l’application joignable via le proxy.
+
+
+
+-------------------------------------------------------------------------------------------------------------
 
 
 
